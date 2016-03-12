@@ -1,3 +1,3 @@
 FROM fedora
 MAINTAINER "Subramanian Olagappan"
-RUN echo "Hello world" > /myfile
+RUN echo "Hello Subbu" > /myfile
